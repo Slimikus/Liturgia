@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "139887b9d3ef405bd66226a08db149e0"
+build_time: [531301126, 172550000]
+inputs:
+  "/Users/admin/Developer/Liturgia.git/Liturgia-test1/Liturgia-test1/ViewController.swift": [531301079, 0]
+  "/Users/admin/Developer/Liturgia.git/Liturgia-test1/Liturgia-test1/AppDelegate.swift": [531301079, 0]
